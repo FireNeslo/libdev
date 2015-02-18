@@ -1,5 +1,5 @@
 {
-  "name": "libdev",
+  "name": "prowsify",
   "version": "0.0.0",
   "bin": "index.js",
   "author": "",
