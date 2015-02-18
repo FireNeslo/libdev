@@ -1,4 +1,4 @@
-# Project Name
+# Prowsify
 
 Get started with a simple template for live browserify setup
 
